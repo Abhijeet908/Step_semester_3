@@ -43,8 +43,12 @@
 
 **Today's Work:**
 - Reorganized the Semester 3 progress log according to the weekly course structure shown in the course posting.
-- Week 8 class/practice coding problems are maintained only on `feature/session_8`.
-- Category C — Abstraction & Interface class coding problems are treated as Week 9, as instructed, and are maintained only on `feature/session_9`.
+- Solved all 5 coding/practice problems from the Week 8 Category C Practice PDF and kept them only on `feature/session_8` under `class_problems`.
+- Solved all 5 coding assignment problems from the Week 8 Category C Coding Assignment PDF and kept them only on `feature/session_8` under `assigment_problems`.
+- Category C — Abstraction & Interface is treated as Week 9, as instructed.
+- Solved all 5 class/practice coding problems from the Week 9 Category C material and kept them only on `feature/session_9` under `class_problems`.
+- Solved all 5 coding assignment problems from the Week 9 Category C Coding Assignment PDF and kept them only on `feature/session_9` under `assigment_problems`.
+- All 20 coding solutions from the four supplied PDFs were compiled and tested against their sample inputs.
 
 **Next Session Plan:**
 - Continue with the remaining Semester 3 coursework without mixing weeks between feature branches.
